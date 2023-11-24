@@ -1,0 +1,9 @@
+Per poter eseguire correttamente l'estensione del progetto K-MEANS svolgere i seguenti passi:
+
+1) Utilizzare gli strumenti MySQL per creare un database, un utente con password e una tabella. In allegato, nella cartella Script SQL, sono disponibili gli script sql    delle tabelle esempio e playtennis. (Fare un copia incolla di uno dei due script in MySQL Command Line)
+
+2) Aprire la cartella Executable Jar
+
+3) Eseguire il file jar eseguibile "Server (Estensione)" per avviare il Server
+
+4) Eseguire il file jar eseguibile "Client (Estensione)" per avviare il Client
